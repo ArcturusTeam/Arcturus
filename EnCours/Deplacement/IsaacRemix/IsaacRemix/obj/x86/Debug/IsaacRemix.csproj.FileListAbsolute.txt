@@ -1,0 +1,7 @@
+C:\Users\Naografix\Desktop\SlugRemix\IsaacRemix\IsaacRemix\IsaacRemix\bin\x86\Debug\Content\Player.xnb
+C:\Users\Naografix\Desktop\SlugRemix\IsaacRemix\IsaacRemix\IsaacRemix\bin\x86\Debug\IsaacRemix.exe
+C:\Users\Naografix\Desktop\SlugRemix\IsaacRemix\IsaacRemix\IsaacRemix\bin\x86\Debug\IsaacRemix.pdb
+C:\Users\Naografix\Desktop\SlugRemix\IsaacRemix\IsaacRemix\IsaacRemix\obj\x86\Debug\IsaacRemix.csprojResolveAssemblyReference.cache
+C:\Users\Naografix\Desktop\SlugRemix\IsaacRemix\IsaacRemix\IsaacRemix\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Naografix\Desktop\SlugRemix\IsaacRemix\IsaacRemix\IsaacRemix\obj\x86\Debug\IsaacRemix.exe
+C:\Users\Naografix\Desktop\SlugRemix\IsaacRemix\IsaacRemix\IsaacRemix\obj\x86\Debug\IsaacRemix.pdb

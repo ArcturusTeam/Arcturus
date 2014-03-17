@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsaacRemix", "IsaacRemix\IsaacRemix\IsaacRemix.csproj", "{D2C2BD6F-6D13-488B-9684-D94801B22219}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "IsaacRemixContent", "IsaacRemix\IsaacRemixContent\IsaacRemixContent.contentproj", "{5297FD18-5316-4A05-8073-167A3F4FB35A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2C2BD6F-6D13-488B-9684-D94801B22219}.Debug|x86.ActiveCfg = Debug|x86
+		{D2C2BD6F-6D13-488B-9684-D94801B22219}.Debug|x86.Build.0 = Debug|x86
+		{D2C2BD6F-6D13-488B-9684-D94801B22219}.Release|x86.ActiveCfg = Release|x86
+		{D2C2BD6F-6D13-488B-9684-D94801B22219}.Release|x86.Build.0 = Release|x86
+		{5297FD18-5316-4A05-8073-167A3F4FB35A}.Debug|x86.ActiveCfg = Debug|x86
+		{5297FD18-5316-4A05-8073-167A3F4FB35A}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
