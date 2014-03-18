@@ -1,0 +1,8 @@
+C:\Users\Naografix\Desktop\SlugRemix\GenerationMap\GenerationMap\GenerationMap\bin\x86\Debug\GenerationMap.exe
+C:\Users\Naografix\Desktop\SlugRemix\GenerationMap\GenerationMap\GenerationMap\bin\x86\Debug\GenerationMap.pdb
+C:\Users\Naografix\Desktop\SlugRemix\GenerationMap\GenerationMap\GenerationMap\obj\x86\Debug\GenerationMap.csprojResolveAssemblyReference.cache
+C:\Users\Naografix\Desktop\SlugRemix\GenerationMap\GenerationMap\GenerationMap\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Naografix\Desktop\SlugRemix\GenerationMap\GenerationMap\GenerationMap\obj\x86\Debug\GenerationMap.exe
+C:\Users\Naografix\Desktop\SlugRemix\GenerationMap\GenerationMap\GenerationMap\obj\x86\Debug\GenerationMap.pdb
+C:\Users\Naografix\Desktop\SlugRemix\GenerationMap\GenerationMap\GenerationMap\bin\x86\Debug\Content\Map1.xnb
+C:\Users\Naografix\Desktop\SlugRemix\GenerationMap\GenerationMap\GenerationMap\bin\x86\Debug\Content\Map2.xnb
